@@ -1,2 +1,3 @@
 # HelibRelease.lib
 直接将Helib源代码打包成lib，方便开发，不需要每次对Helib源码进行编译 编译环境VS2010
+Helib依赖于NTL库，这里上传我编译好的Helib，只需要将NTL以及HElib的投文件引入，就能使用Helib提供的同态加密相关的功能了。
