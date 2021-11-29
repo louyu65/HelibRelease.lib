@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-29T09:35:17.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="-gEJHe6x7ZRTzE54NQOM" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-29T09:38:47.694Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="a22zoH-y-IG1dcPx0lqm" version="15.8.6" type="github">
   <diagram id="ZnlW9dyg7hoxjNr_jYjr" name="Page-1">
     <mxGraphModel dx="1418" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,6 +70,9 @@
         </mxCell>
         <mxCell id="pzsMb4ebbFXju3fP4moq-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="pzsMb4ebbFXju3fP4moq-6" target="pzsMb4ebbFXju3fP4moq-17">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pzsMb4ebbFXju3fP4moq-21" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1、ukey的成本中存在证书成本，100~200&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2、国密堡垒机这个事情还不确定&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="530" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
